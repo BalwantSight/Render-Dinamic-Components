@@ -50,7 +50,7 @@ const App = () => {
   };
 
   return (
-    <div className="container-none px-4">
+    <div className="container-none px-5">
       <h1 className="text-center p-5" style={{ fontWeight: "bold" }}>
         <i className="fa-solid fa-users"></i>
         <span>&nbsp;&nbsp;</span>Lista de Colaboradores

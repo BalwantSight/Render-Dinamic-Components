@@ -2,7 +2,7 @@ import React from "react";
 import PropTypes from "prop-types";
 
 const emailPattern = /^\w+([.-]?\w+)*@\w+([.-]?\w+)*(\.\w{2,3})+$/;
-const nombrecompletoPattern = /^[\w\sáéíóúÁÉÍÓÚ]+ [\w\sáéíóúÁÉÍÓÚ]+$/;
+const nombrecompletoPattern = /^[\w\sáéíóúÁÉÍÓÚ]+ [\w\sáéíóúÁÉÍÓÚ]+$/; //Regex que incopora Nombres con Acentos
 const generoPattern = /^[FMO]$/;
 const telefonoPattern = /^\+569\d{8}$/;
 const edadPattern = /^(1[8-9]|[2-9]\d+)$/;
