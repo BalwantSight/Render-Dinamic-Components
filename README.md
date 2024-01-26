@@ -14,7 +14,7 @@ Se agregó al proyecto planteado a modo de ejercicio:
 <br>
 <br>
 (Estos cambios fueron realizados a modo de prueba para intentar incorporar la API en el proyecto.
-No representan una funcionalidad aplicable a ua lista de colaboradores real.)
+<br>No representan una funcionalidad aplicable a ua lista de colaboradores real.)
 </ul>
 
 
