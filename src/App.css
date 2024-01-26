@@ -1,0 +1,56 @@
+/* Estilos generales para todos los elementos */
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+/* Variables globales */
+:root {
+  margin: 2em;
+  font-family: Inter, system-ui, Avenir, Helvetica, Arial, sans-serif;
+  line-height: 1.5;
+  font-weight: 400;
+  color-scheme: light dark;
+  font-synthesis: none;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-text-size-adjust: 100%;
+  background: #ffc471;
+  background: radial-gradient(circle, #8ad3b7 0%, #b3dadd 100%);
+}
+
+.container-none {
+  background: #ffc471;
+  background: radial-gradient(circle, #8ad3b7 0%, #b3dadd 100%);
+}
+
+.table-responsive {
+  border-radius: 10px;
+  -webkit-border-radius: 10px;
+  -moz-border-radius: 10px;
+  -ms-border-radius: 10px;
+  -o-border-radius: 10px;
+}
+
+/* Solución para desbordamiento de texto con 20 caracteres */
+.fix-text-overflow {
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+
+/* Media query para pantallas pequeñas */
+@media (max-width: 767px) {
+  .form-control {
+    margin: 0 auto;
+  }
+}
+
+/* Media query para pantallas medianas */
+@media (max-width: 991px) {
+  .form-control {
+    margin: 0 auto;
+  }
+}
