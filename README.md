@@ -10,7 +10,7 @@ Se agregó al proyecto planteado a modo de ejercicio:
 <li>Se agregaron 2 nuevos datos a la tabla de colaboradores: Foto y Género.</li>
 <li>Se usó la API de la Web RandomUser.me para incorporar las fotos de los usuarios agregados al proyecto.</li>
 <li>Se aplicó la selección de la foto considerando el Género del Colaborador agregado a la lista.</li>
-<li>Si el colaborador no se identifica con algún género no se pinta la foto desde Randomuser.</li>
+<li>Si el colaborador no se identifica con algún género (O) no se pinta la foto desde Randomuser.</li>
 <br>
 <br>
 (Estos cambios fueron realizados a modo de prueba para intentar incorporar la API en el proyecto.
